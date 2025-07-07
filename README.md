@@ -40,7 +40,7 @@ ThermVision synthesizes high-fidelity thermal facial animations of male and fema
 
 ## 📁 Dataset Access
 
-- [📥 ThermVision Sample Dataset](static/datasets/sample.zip)  
+- [📥 ThermVision Sample Dataset](https://huggingface.co/datasets/MAli-Farooq/ThermVision-Sample-Dataset)  
 - [📦 ThermVision Full Dataset (request access)](mailto:youremail@example.com)
 
 ---
