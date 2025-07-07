@@ -1,6 +1,6 @@
 # ThermVision: Exploring FLUX for Synthesizing Hyper-Realistic Thermal Face Data and Animations via Image to Video Translation
 
-![Thermal Banner](static/Images/Thermal.gif)
+![Thermal Banner](Images/Thermal.gif)
 
 **ThermVision** is a synthetically curated thermal imaging dataset designed to support research in facial analysis under infrared modalities. Unlike conventional thermal datasets captured through physical sensors, ThermVision leverages **FLUX diffusion models**—a class of high-fidelity generative architectures—to simulate photo-realistic thermal facial animations under controlled variations in head pose and facial expression.
 
