@@ -51,8 +51,8 @@ We provide two complete [ComfyUI](https://github.com/comfyanonymous/ComfyUI) wor
 
 | Workflow             | Preview                                               | JSON File Download |
 |----------------------|--------------------------------------------------------|---------------------|
-| **Training Pipeline** | ![Training](static/Images/training.png)        | [Download `training_workflow.json`](static/workflows/training_workflow.json) |
-| **Inference Pipeline**| ![Inference](static/images/inference.png)      | [Download `inference_workflow.json`](static/workflows/inference_workflow.json) |
+| **Training Pipeline** | ![Training](static/Images/Training.png)        | [Download `training_workflow.json`](static/workflows/training_workflow.json) |
+| **Inference Pipeline**| ![Inference](static/images/Inference.png)      | [Download `inference_workflow.json`](static/workflows/inference_workflow.json) |
 
 These workflows demonstrate how thermal animation synthesis is achieved using our custom retargeting and diffusion-based generation steps.
 
