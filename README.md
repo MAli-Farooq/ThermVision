@@ -88,9 +88,15 @@ We are actively refining the synthesis stage and improving retargeting stability
 
 **BibTeX:**
 ```bibtex
-@article{your2025thermvision,
-  title={ThermVision: Diffusion-based Synthetic Thermal Facial Animation for Gender Classification},
-  author={Your Name et al.},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+@inproceedings{
+2025thermvision,
+title={ThermVision: Exploring {FLUX} for Synthesizing Hyper-Realistic Thermal Face Data and Animations via Image to Video Translation},
+author={Farooq, Muhammad Ali and Shariff, Waseem and Corcoran, Peter},
+booktitle={ACM Multimedia 2025},
+year={2025},
+url={https://openreview.net/forum?id=iNKiMnIl1K},
+volume={},
+number={},
+pages={},
+doi={}       
 }
