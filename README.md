@@ -75,8 +75,8 @@ While the majority of our generated images are structurally sound and realistic,
 
 | Failure Sample | Issue |
 |----------------|-------|
-| ![Failure 1](fail cases/11.png) | Thermal noise hallucination, unrealistic temperature map |
-| ![Failure 2](static/images/failure2.png) | Loss of facial structure under extreme yaw |
+| ![Failure 1](Fail-Cases/11.png) | Thermal noise hallucination, unrealistic temperature map |
+| ![Failure 2](Fail-Cases/13.png) | Loss of facial structure under extreme yaw |
 
 We are actively refining the synthesis stage and improving retargeting stability to minimize these issues.
 
