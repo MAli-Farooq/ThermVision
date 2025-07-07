@@ -82,6 +82,10 @@ We are actively refining the synthesis stage and improving retargeting stability
 
 ---
 
+## 📹 Vidoe Retargetting Module
+Please find the below link to download and use the video retargetting module
+- [Live Portrait](https://github.com/MAli-Farooq/LivePortrait)
+
 ## 📚 Paper & Citation
 
 - [📄 Read on arXiv](https://arxiv.org/abs/your-paper-id)
