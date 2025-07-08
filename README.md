@@ -57,6 +57,11 @@ We provide two complete [ComfyUI](https://github.com/comfyanonymous/ComfyUI) wor
 These workflows demonstrate how thermal animation synthesis is achieved using our custom retargeting and diffusion-based generation steps.
 
 ---
+## 📊 FLUX Training 
+To retune the FLUX LoRA model please follow the below provided guide 
+[Flux Trainer](https://github.com/MAli-Farooq/ComfyUI-FluxTrainer)
+
+---
 
 ## 📊 Thermal Gender Classification Results
 
