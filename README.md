@@ -63,6 +63,15 @@ To re-tune the FLUX LoRA model please follow the below provided guide
 
 ---
 
+## 📊 ThermVision Evaluation and Annotations:
+
+The Code folder in this repository contains the models and training/testing/inferencing scripts for 3 different tasks which includes
+**Thermal Face Localization/Annotations**
+**Thermal Gender Classification**
+**Thermal Facial Landmarks Predictions**
+
+---
+
 ## 📊 Thermal Gender Classification Results
 
 We evaluated multiple backbone architectures under both pure synthetic and hybrid training regimes:
